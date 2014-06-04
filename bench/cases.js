@@ -1,6 +1,6 @@
 var cases = []
 
-for(var i=1; i<4; ++i) {
+for(var i=1; i<3; ++i) {
   for(var j=1; j<=i; ++j) {
     var nr = Math.pow(10, i)
     var nb = Math.pow(10, j)
