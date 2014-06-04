@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "ndarray-scratch": "^1.1.1",
-    "ndarray-sort": "^0.1.0",
+    "ndarray-sort": "^1.0.0",
     "robust-segment-intersect": "^1.0.1",
     "typedarray-pool": "^1.0.2"
   },
