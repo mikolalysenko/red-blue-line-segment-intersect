@@ -1,0 +1,40 @@
+{
+  "name": "red-blue-line-segment-intersect",
+  "version": "1.0.0",
+  "description": "Find all intersections between two sets of line segments",
+  "main": "rblsi.js",
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "dependencies": {
+    "ndarray-scratch": "^1.1.1",
+    "ndarray-sort": "^0.1.0",
+    "robust-segment-intersect": "^1.0.1",
+    "typedarray-pool": "^1.0.2"
+  },
+  "devDependencies": {
+    "tape": "^2.13.2"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikolalysenko/red-blue-line-segment-intersect.git"
+  },
+  "keywords": [
+    "line",
+    "segment",
+    "intersection",
+    "robust",
+    "red",
+    "blue"
+  ],
+  "author": "Mikola Lysenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikolalysenko/red-blue-line-segment-intersect/issues"
+  },
+  "homepage": "https://github.com/mikolalysenko/red-blue-line-segment-intersect"
+}
