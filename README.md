@@ -2,6 +2,10 @@ red-blue-line-segment-intersect
 ===============================
 Given two sets of line segments, find all pairs of intersections between the two of them.
 
+[![testling badge](https://ci.testling.com/mikolalysenko/red-blue-line-segment-intersect.png)](https://ci.testling.com/mikolalysenko/red-blue-line-segment-intersect)
+
+[![build status](https://secure.travis-ci.org/mikolalysenko/red-blue-line-segment-intersect.png)](http://travis-ci.org/mikolalysenko/red-blue-line-segment-intersect)
+
 # Example
 
 ```javascript
