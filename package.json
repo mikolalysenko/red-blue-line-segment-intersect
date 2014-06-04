@@ -1,6 +1,6 @@
 {
   "name": "red-blue-line-segment-intersect",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Find all intersections between two sets of line segments",
   "main": "rblsi.js",
   "directories": {
